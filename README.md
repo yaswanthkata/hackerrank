@@ -1,2 +1,2 @@
 # hackerrank
-My hacker ran solutions
+My hacker rank solutions
